@@ -1,7 +1,7 @@
 #include <iostream>
 
-int main() {
-    // Create variable for user name
+int main(int argc, const char* argv[]) {
+    // Create variable name
     char name[255];
 
     // Get name from user
